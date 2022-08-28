@@ -1,0 +1,15 @@
+.add-post-content{
+    background-color: rgb(128, 128, 128);
+}
+
+.add-post-content{
+    padding-top: 20px;
+}
+
+.new-post-title{
+    color: lightgray;
+}
+
+.post-content, .post-title{
+    color:lightgray;
+}

@@ -1,0 +1,24 @@
+.header{
+    padding: 5px 20px;
+    background-color: #272727;
+    color:lightgray
+}
+
+.title{
+    color:antiquewhite;
+    text-decoration: none;
+}
+
+.login, .register{
+    float: right;
+    text-decoration: none;
+    color:rgb(255, 236, 125);
+    padding-top: 10px;
+}
+
+.new-post{
+    float: right;
+    text-decoration: none;
+    color: rgb(255,236,125);
+    padding-top: 10px;
+}
